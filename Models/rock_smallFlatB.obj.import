@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rock_smallFlatB.obj-d17e0302cb95ea5c619fd4df21007401.mesh"
+
+[deps]
+
+files=[ "res://.import/rock_smallFlatB.obj-d17e0302cb95ea5c619fd4df21007401.mesh" ]
+
+source_file="res://Models/rock_smallFlatB.obj"
+dest_files=[ "res://.import/rock_smallFlatB.obj-d17e0302cb95ea5c619fd4df21007401.mesh", "res://.import/rock_smallFlatB.obj-d17e0302cb95ea5c619fd4df21007401.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

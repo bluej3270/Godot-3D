@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverCornerSmall.obj-ce499920b3d2efc78a6ef369a01a7bcc.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverCornerSmall.obj-ce499920b3d2efc78a6ef369a01a7bcc.mesh" ]
+
+source_file="res://Models/ground_riverCornerSmall.obj"
+dest_files=[ "res://.import/ground_riverCornerSmall.obj-ce499920b3d2efc78a6ef369a01a7bcc.mesh", "res://.import/ground_riverCornerSmall.obj-ce499920b3d2efc78a6ef369a01a7bcc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

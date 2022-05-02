@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plant_bushTriangle.obj-770cccfc6c5ea028f8b729f724f2a8ec.mesh"
+
+[deps]
+
+files=[ "res://.import/plant_bushTriangle.obj-770cccfc6c5ea028f8b729f724f2a8ec.mesh" ]
+
+source_file="res://Models/plant_bushTriangle.obj"
+dest_files=[ "res://.import/plant_bushTriangle.obj-770cccfc6c5ea028f8b729f724f2a8ec.mesh", "res://.import/plant_bushTriangle.obj-770cccfc6c5ea028f8b729f724f2a8ec.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

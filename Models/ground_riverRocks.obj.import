@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverRocks.obj-930b43e93e04dacc66714c645244b33a.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverRocks.obj-930b43e93e04dacc66714c645244b33a.mesh" ]
+
+source_file="res://Models/ground_riverRocks.obj"
+dest_files=[ "res://.import/ground_riverRocks.obj-930b43e93e04dacc66714c645244b33a.mesh", "res://.import/ground_riverRocks.obj-930b43e93e04dacc66714c645244b33a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

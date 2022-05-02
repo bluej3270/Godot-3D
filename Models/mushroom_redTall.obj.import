@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mushroom_redTall.obj-f3a80e9d49bab5d11d65d07324e8772d.mesh"
+
+[deps]
+
+files=[ "res://.import/mushroom_redTall.obj-f3a80e9d49bab5d11d65d07324e8772d.mesh" ]
+
+source_file="res://Models/mushroom_redTall.obj"
+dest_files=[ "res://.import/mushroom_redTall.obj-f3a80e9d49bab5d11d65d07324e8772d.mesh", "res://.import/mushroom_redTall.obj-f3a80e9d49bab5d11d65d07324e8772d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

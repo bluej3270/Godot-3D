@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/path_woodCorner.obj-7d67593e690ad557838a61751b332e19.mesh"
+
+[deps]
+
+files=[ "res://.import/path_woodCorner.obj-7d67593e690ad557838a61751b332e19.mesh" ]
+
+source_file="res://Models/path_woodCorner.obj"
+dest_files=[ "res://.import/path_woodCorner.obj-7d67593e690ad557838a61751b332e19.mesh", "res://.import/path_woodCorner.obj-7d67593e690ad557838a61751b332e19.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tent_detailedClosed.obj-e10e8365c7abbc2c21b11152a02d280b.mesh"
+
+[deps]
+
+files=[ "res://.import/tent_detailedClosed.obj-e10e8365c7abbc2c21b11152a02d280b.mesh" ]
+
+source_file="res://Models/tent_detailedClosed.obj"
+dest_files=[ "res://.import/tent_detailedClosed.obj-e10e8365c7abbc2c21b11152a02d280b.mesh", "res://.import/tent_detailedClosed.obj-e10e8365c7abbc2c21b11152a02d280b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

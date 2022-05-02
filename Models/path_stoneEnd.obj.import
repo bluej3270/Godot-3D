@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/path_stoneEnd.obj-d1e75e60e935db7b43f04051f82c10de.mesh"
+
+[deps]
+
+files=[ "res://.import/path_stoneEnd.obj-d1e75e60e935db7b43f04051f82c10de.mesh" ]
+
+source_file="res://Models/path_stoneEnd.obj"
+dest_files=[ "res://.import/path_stoneEnd.obj-d1e75e60e935db7b43f04051f82c10de.mesh", "res://.import/path_stoneEnd.obj-d1e75e60e935db7b43f04051f82c10de.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

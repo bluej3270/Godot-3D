@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rock_tallB.obj-1572c36bea002174850042c2054ab09f.mesh"
+
+[deps]
+
+files=[ "res://.import/rock_tallB.obj-1572c36bea002174850042c2054ab09f.mesh" ]
+
+source_file="res://Models/rock_tallB.obj"
+dest_files=[ "res://.import/rock_tallB.obj-1572c36bea002174850042c2054ab09f.mesh", "res://.import/rock_tallB.obj-1572c36bea002174850042c2054ab09f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

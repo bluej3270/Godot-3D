@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lily_large.obj-6b4ead877a39bcbe73dffe438890c698.mesh"
+
+[deps]
+
+files=[ "res://.import/lily_large.obj-6b4ead877a39bcbe73dffe438890c698.mesh" ]
+
+source_file="res://Models/lily_large.obj"
+dest_files=[ "res://.import/lily_large.obj-6b4ead877a39bcbe73dffe438890c698.mesh", "res://.import/lily_large.obj-6b4ead877a39bcbe73dffe438890c698.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

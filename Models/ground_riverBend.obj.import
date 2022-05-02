@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverBend.obj-ee5e14fa1069568c19a97e050c180aaf.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverBend.obj-ee5e14fa1069568c19a97e050c180aaf.mesh" ]
+
+source_file="res://Models/ground_riverBend.obj"
+dest_files=[ "res://.import/ground_riverBend.obj-ee5e14fa1069568c19a97e050c180aaf.mesh", "res://.import/ground_riverBend.obj-ee5e14fa1069568c19a97e050c180aaf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

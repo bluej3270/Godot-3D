@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flower_purpleC.obj-2a2af01efe8e08c52fb0d9f54d0ffb42.mesh"
+
+[deps]
+
+files=[ "res://.import/flower_purpleC.obj-2a2af01efe8e08c52fb0d9f54d0ffb42.mesh" ]
+
+source_file="res://Models/flower_purpleC.obj"
+dest_files=[ "res://.import/flower_purpleC.obj-2a2af01efe8e08c52fb0d9f54d0ffb42.mesh", "res://.import/flower_purpleC.obj-2a2af01efe8e08c52fb0d9f54d0ffb42.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

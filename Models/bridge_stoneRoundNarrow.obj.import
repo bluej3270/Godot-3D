@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bridge_stoneRoundNarrow.obj-19bce60c431ef3bd53aad866d341c09e.mesh"
+
+[deps]
+
+files=[ "res://.import/bridge_stoneRoundNarrow.obj-19bce60c431ef3bd53aad866d341c09e.mesh" ]
+
+source_file="res://Models/bridge_stoneRoundNarrow.obj"
+dest_files=[ "res://.import/bridge_stoneRoundNarrow.obj-19bce60c431ef3bd53aad866d341c09e.mesh", "res://.import/bridge_stoneRoundNarrow.obj-19bce60c431ef3bd53aad866d341c09e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flower_redA.obj-b66bd1a1bf25380ee123562247dcf118.mesh"
+
+[deps]
+
+files=[ "res://.import/flower_redA.obj-b66bd1a1bf25380ee123562247dcf118.mesh" ]
+
+source_file="res://Models/flower_redA.obj"
+dest_files=[ "res://.import/flower_redA.obj-b66bd1a1bf25380ee123562247dcf118.mesh", "res://.import/flower_redA.obj-b66bd1a1bf25380ee123562247dcf118.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
