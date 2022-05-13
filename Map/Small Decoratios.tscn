@@ -1,0 +1,93 @@
+[gd_scene load_steps=15 format=2]
+
+[ext_resource path="res://Models/mushroom_tanTall.obj" type="ArrayMesh" id=1]
+[ext_resource path="res://Models/mushroom_tan.obj" type="ArrayMesh" id=2]
+[ext_resource path="res://Models/mushroom_tanGroup.obj" type="ArrayMesh" id=3]
+[ext_resource path="res://Models/mushroom_redTall.obj" type="ArrayMesh" id=4]
+[ext_resource path="res://Models/mushroom_redGroup.obj" type="ArrayMesh" id=5]
+[ext_resource path="res://Models/mushroom_red.obj" type="ArrayMesh" id=6]
+[ext_resource path="res://Models/plant_bush.obj" type="ArrayMesh" id=7]
+[ext_resource path="res://Models/plant_bushLarge.obj" type="ArrayMesh" id=8]
+[ext_resource path="res://Models/plant_bushLargeTriangle.obj" type="ArrayMesh" id=9]
+[ext_resource path="res://Models/plant_bushDetailed.obj" type="ArrayMesh" id=10]
+[ext_resource path="res://Models/plant_bushSmall.obj" type="ArrayMesh" id=11]
+[ext_resource path="res://Models/plant_flatTall.obj" type="ArrayMesh" id=12]
+[ext_resource path="res://Models/plant_bushTriangle.obj" type="ArrayMesh" id=13]
+[ext_resource path="res://Models/plant_flatShort.obj" type="ArrayMesh" id=14]
+
+[node name="Small Decorations" type="Spatial"]
+
+[node name="mushroom_red" type="MeshInstance" parent="."]
+mesh = ExtResource( 6 )
+material/0 = null
+material/1 = null
+
+[node name="mushroom_redGroup" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1 )
+mesh = ExtResource( 5 )
+material/0 = null
+material/1 = null
+
+[node name="mushroom_redTall" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2 )
+mesh = ExtResource( 4 )
+material/0 = null
+material/1 = null
+
+[node name="mushroom_tan" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 3 )
+mesh = ExtResource( 2 )
+material/0 = null
+material/1 = null
+
+[node name="mushroom_tanGroup" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 4 )
+mesh = ExtResource( 3 )
+material/0 = null
+material/1 = null
+
+[node name="mushroom_tanTall" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5 )
+mesh = ExtResource( 1 )
+material/0 = null
+material/1 = null
+
+[node name="plant_bush" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0 )
+mesh = ExtResource( 7 )
+material/0 = null
+
+[node name="plant_bushDetailed" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1 )
+mesh = ExtResource( 10 )
+material/0 = null
+
+[node name="plant_bushLarge" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 2 )
+mesh = ExtResource( 8 )
+material/0 = null
+
+[node name="plant_bushLargeTriangle" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 3 )
+mesh = ExtResource( 9 )
+material/0 = null
+
+[node name="plant_bushSmall" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 4 )
+mesh = ExtResource( 11 )
+material/0 = null
+
+[node name="plant_bushTriangle" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 5 )
+mesh = ExtResource( 13 )
+material/0 = null
+
+[node name="plant_flatShort" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 6 )
+mesh = ExtResource( 14 )
+material/0 = null
+
+[node name="plant_flatTall" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 7 )
+mesh = ExtResource( 12 )
+material/0 = null
