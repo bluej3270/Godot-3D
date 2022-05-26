@@ -25,8 +25,9 @@ onready var rocket = load("res://Fireworks/Rocket.tscn")
 
 func _ready():
 	# hide and lock the mouse cursor
-	Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
-
+	#Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
+	pass
+	
 func _physics_process(delta):
 	# reset the x and z velocity
 	vel.x = 0

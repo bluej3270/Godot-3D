@@ -26,7 +26,7 @@ hue_variation_random = 1.0
 [node name="Particles" type="Particles" parent="."]
 emitting = false
 amount = 200
-lifetime = 1.5
+lifetime = 0.5
 one_shot = true
 explosiveness = 0.95
 process_material = SubResource( 3 )
